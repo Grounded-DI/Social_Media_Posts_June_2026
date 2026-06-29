@@ -103,4 +103,4 @@ As of June 28, 2026, the following U.S. utility nonprovisional applications have
     Title: Deterministic Intelligence Systems and Methods for State-Bound Continuation Control of Generative
     Agent Operations
 
-— Mark S. Weinstein, Grounded DI LLC
+— Grounded DI LLC
