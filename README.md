@@ -76,29 +76,13 @@ Selected files that help a reviewer navigate the collection:
 
 The remaining root images are preserved under their supplied filenames. They include public commentary about BriefWise, auditability, finance, weather, rockets, legal workflows, and Grounded DI positioning.
 
-## How to read the record
+## Reading the evidence
 
-This archive separates five propositions that are often collapsed:
+The [BriefWise checkpoint](./GroundedDI_BriefWise_DI2_500_Source_Checked_Authority_Audit_Checkpoint_2026-06-14.pdf.pdf) records a qualified source audit; the [Rocket Analyzer draft](./Rocket_Analyzer_DI2_Artemis_II_Artifact.pdf) and [VerdictBridge explanation](./VerdictBridge_Deterministic_Litigation_Infrastructure.pdf) show conceptual work. Search and AI-mode captures preserve the displayed commentary. Each item's status follows its own artifact and evidence.
 
-1. what an underlying model can generate or infer;
-2. whether a stated control path or workflow follows its declared procedure;
-3. whether a replay, hash, or source record can be checked again;
-4. whether an item is a public record, draft, experiment, or product artifact; and
-5. whether an outside party has independently validated it.
+## Evidence boundaries
 
-The BriefWise certificate supplies a qualified audit result within its stated scope. The Rocket Analyzer and VerdictBridge PDFs are public explanations. Search snippets, AI-mode summaries, and third-party screenshots preserve what was displayed; they are not independent evidentiary sources. The archive does not convert any of those records into a benchmark, certification, deployment claim, or universal capability claim.
-
-## Scope and regulator-facing boundaries
-
-The repository does not establish:
-
-- patent grant, prosecution outcome, or enforceability from a receipt image;
-- independent verification of any AI-mode, search, media, or third-party statement;
-- legal, medical, financial, environmental, weather, engineering, or safety correctness from a graphic or draft;
-- production deployment, customer adoption, revenue, or market leadership; or
-- complete proprietary architecture, prompts, thresholds, credentials, or confidential matter information.
-
-Where a record is synthetic, conceptual, provisional, or unbenchmarked, that status controls. A SHA-256 or Git object identifier, where available, establishes identity of the hashed bytes; it does not establish the substantive truth of every statement displayed within those bytes.
+Receipt images show recorded filing references; patent status and priority require official records. The legal, weather, safety, and engineering materials must be assessed within their stated artifact scope before use in those fields. Hashes identify bytes, while deployment, independent validation, and commercial adoption require separate evidence.
 
 ## Provenance and preservation
 
@@ -109,7 +93,7 @@ The public repository state reviewed here is commit [`0cfbc720984b6ed46587941b8d
 1. Start with the [BriefWise audit checkpoint](./GroundedDI_BriefWise_DI2_500_Source_Checked_Authority_Audit_Checkpoint_2026-06-14.pdf.pdf) and its explicit FilingReady boundary.
 2. Review the [Rocket Analyzer draft](./Rocket_Analyzer_DI2_Artemis_II_Artifact.pdf) and [VerdictBridge explanation](./VerdictBridge_Deterministic_Litigation_Infrastructure.pdf) as separate conceptual records.
 3. Use the receipt-capture index to locate the dated application images; treat each as a public record of what the image displays.
-4. Treat search, AI-mode, article, and social screenshots as archival commentary rather than independent validation.
+4. Review search, AI-mode, article, and social screenshots in their original publication context.
 5. Use the repository commit and exact filename when citing any item.
 
 ## Public status
